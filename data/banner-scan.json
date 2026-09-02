@@ -1,0 +1,111 @@
+[
+ {
+  "handle": "backgammon-premium",
+  "title": "Backgammon Premium",
+  "images": 10,
+  "flagged": [
+   0
+  ],
+  "clean": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "err": [
+   28.6
+  ]
+ },
+ {
+  "handle": "caja-mini-casino",
+  "title": "Caja mini casino Premium",
+  "images": 12,
+  "flagged": [
+   0
+  ],
+  "clean": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "err": [
+   31.8
+  ]
+ },
+ {
+  "handle": "maleta-de-viaje-con-textura",
+  "title": "Maleta de viaje con textura de cocodrilo",
+  "images": 9,
+  "flagged": [
+   0
+  ],
+  "clean": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "err": [
+   31.8
+  ]
+ },
+ {
+  "handle": "maletadeviaje",
+  "title": "Maleta de viaje",
+  "images": 9,
+  "flagged": [
+   0
+  ],
+  "clean": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "err": [
+   35.8
+  ]
+ },
+ {
+  "handle": "porta-ipad",
+  "title": "Porta iPad de piel",
+  "images": 9,
+  "flagged": [
+   0
+  ],
+  "clean": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "err": [
+   0
+  ]
+ }
+]

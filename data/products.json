@@ -254,67 +254,67 @@
   },
   "images": [
    {
-    "src": "/img/products/porta-ipad-1.webp",
-    "alt": "Porta iPad de piel de piel genuina hecho a mano por Koon Artesanos",
-    "w": 1024,
-    "h": 1024,
-    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/1_0b2e12d2-6fb0-4027-b03b-ce906d3f0cca.png?v=1717194359"
-   },
-   {
     "src": "/img/products/porta-ipad-2.webp",
-    "alt": "Porta iPad de piel – vista 2",
+    "alt": "Porta iPad de piel de piel genuina hecho a mano por Koon Artesanos",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/funda-ipad-10-generacion.jpg?v=1717194359"
    },
    {
     "src": "/img/products/porta-ipad-3.webp",
-    "alt": "Porta iPad de piel – vista 3",
+    "alt": "Porta iPad de piel – vista 2",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/porta-ipad.jpg?v=1717194359"
    },
    {
     "src": "/img/products/porta-ipad-4.webp",
-    "alt": "Porta iPad de piel – vista 4",
+    "alt": "Porta iPad de piel – vista 3",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/funda-para-apple-pencil.jpg?v=1717194359"
    },
    {
     "src": "/img/products/porta-ipad-5.webp",
-    "alt": "Porta iPad de piel – vista 5",
+    "alt": "Porta iPad de piel – vista 4",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/portaipad_02.jpg?v=1717194359"
    },
    {
     "src": "/img/products/porta-ipad-6.webp",
-    "alt": "Porta iPad de piel – vista 6",
+    "alt": "Porta iPad de piel – vista 5",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/portaipad_01.jpg?v=1717194359"
    },
    {
     "src": "/img/products/porta-ipad-7.webp",
-    "alt": "Porta iPad de piel – vista 7",
+    "alt": "Porta iPad de piel – vista 6",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/portaipad_05.jpg?v=1717194359"
    },
    {
     "src": "/img/products/porta-ipad-8.webp",
-    "alt": "Porta iPad de piel – vista 8",
+    "alt": "Porta iPad de piel – vista 7",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/portaipad_04.jpg?v=1717194359"
    },
    {
     "src": "/img/products/porta-ipad-9.webp",
-    "alt": "Porta iPad de piel – vista 9",
+    "alt": "Porta iPad de piel – vista 8",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/portaipad_03.jpg?v=1717194359"
+   },
+   {
+    "src": "/img/products/porta-ipad-1.webp",
+    "alt": "Porta iPad de piel – vista 9",
+    "w": 1024,
+    "h": 1024,
+    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/1_0b2e12d2-6fb0-4027-b03b-ce906d3f0cca.png?v=1717194359"
    }
   ],
   "optionName": "Color",
@@ -324,7 +324,7 @@
     "value": "Gris oxford / Negro",
     "price": 3540,
     "available": true,
-    "image": 4,
+    "image": 3,
     "sku": null
    }
   ],
@@ -368,67 +368,67 @@
   },
   "images": [
    {
-    "src": "/img/products/maleta-de-viaje-con-textura-1.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo de piel genuina hecho a mano por Koon Artesanos",
-    "w": 1024,
-    "h": 1024,
-    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/4.png?v=1717194768"
-   },
-   {
     "src": "/img/products/maleta-de-viaje-con-textura-2.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 2",
+    "alt": "Maleta de viaje con textura de cocodrilo de piel genuina hecho a mano por Koon Artesanos",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/maleta-de-cuero.jpg?v=1717194768"
    },
    {
     "src": "/img/products/maleta-de-viaje-con-textura-3.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 3",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 2",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/bolsas-de-piel-genuina.jpg?v=1717194768"
    },
    {
     "src": "/img/products/maleta-de-viaje-con-textura-4.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 4",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 3",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/maletas-de-viaje.jpg?v=1717194768"
    },
    {
     "src": "/img/products/maleta-de-viaje-con-textura-5.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 5",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 4",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/maleta-de-cuero-para-viajes.jpg?v=1717194768"
    },
    {
     "src": "/img/products/maleta-de-viaje-con-textura-6.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 6",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 5",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/bolsa-para-viaje-de-piel.jpg?v=1717194768"
    },
    {
     "src": "/img/products/maleta-de-viaje-con-textura-7.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 7",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 6",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/maleta-de-viaje-hecha-de-piel.jpg?v=1717194768"
    },
    {
     "src": "/img/products/maleta-de-viaje-con-textura-8.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 8",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 7",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/maleta_de_piel.jpg?v=1717194768"
    },
    {
     "src": "/img/products/maleta-de-viaje-con-textura-9.webp",
-    "alt": "Maleta de viaje con textura de cocodrilo – vista 9",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 8",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/maleta-deportiva.jpg?v=1717194768"
+   },
+   {
+    "src": "/img/products/maleta-de-viaje-con-textura-1.webp",
+    "alt": "Maleta de viaje con textura de cocodrilo – vista 9",
+    "w": 1024,
+    "h": 1024,
+    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/4.png?v=1717194768"
    }
   ],
   "optionName": "Color",
@@ -438,7 +438,7 @@
     "value": "Negro",
     "price": 4520,
     "available": true,
-    "image": 8,
+    "image": 7,
     "sku": null
    },
    {
@@ -446,7 +446,7 @@
     "value": "Moka",
     "price": 4520,
     "available": true,
-    "image": 7,
+    "image": 6,
     "sku": null
    }
   ],
@@ -486,74 +486,74 @@
   },
   "images": [
    {
-    "src": "/img/products/backgammon-premium-1.webp",
-    "alt": "Backgammon Premium de piel genuina hecho a mano por Koon Artesanos",
-    "w": 1024,
-    "h": 1024,
-    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/Nuevoproducto.png?v=1717194938"
-   },
-   {
     "src": "/img/products/backgammon-premium-2.webp",
-    "alt": "Backgammon Premium – vista 2",
+    "alt": "Backgammon Premium de piel genuina hecho a mano por Koon Artesanos",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/backgammon-donde-comprar.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-3.webp",
-    "alt": "Backgammon Premium – vista 3",
+    "alt": "Backgammon Premium – vista 2",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/backgammon-juego-de-mesa.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-4.webp",
-    "alt": "Backgammon Premium – vista 4",
+    "alt": "Backgammon Premium – vista 3",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/juego-de-tablero-clasico-de-backgammon.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-5.webp",
-    "alt": "Backgammon Premium – vista 5",
+    "alt": "Backgammon Premium – vista 4",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/backgammon-premium.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-6.webp",
-    "alt": "Backgammon Premium – vista 6",
+    "alt": "Backgammon Premium – vista 5",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/backgammon-de-piel.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-7.webp",
-    "alt": "Backgammon Premium – vista 7",
+    "alt": "Backgammon Premium – vista 6",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/juego-de-backgammon.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-8.webp",
-    "alt": "Backgammon Premium – vista 8",
+    "alt": "Backgammon Premium – vista 7",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/backgammon-profesional.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-9.webp",
-    "alt": "Backgammon Premium – vista 9",
+    "alt": "Backgammon Premium – vista 8",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/backgammon-de-calidad.jpg?v=1717194938"
    },
    {
     "src": "/img/products/backgammon-premium-10.webp",
-    "alt": "Backgammon Premium – vista 10",
+    "alt": "Backgammon Premium – vista 9",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/tablero-de-backgammon.jpg?v=1717194938"
+   },
+   {
+    "src": "/img/products/backgammon-premium-1.webp",
+    "alt": "Backgammon Premium – vista 10",
+    "w": 1024,
+    "h": 1024,
+    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/Nuevoproducto.png?v=1717194938"
    }
   ],
   "optionName": "Color",
@@ -563,7 +563,7 @@
     "value": "Aqua obscuro / Hueso",
     "price": 18790,
     "available": true,
-    "image": 3,
+    "image": 2,
     "sku": null
    },
    {
@@ -571,7 +571,7 @@
     "value": "Azul cobalto / Mostaza",
     "price": 18790,
     "available": true,
-    "image": 4,
+    "image": 3,
     "sku": null
    },
    {
@@ -579,7 +579,7 @@
     "value": "Burgundy / Hueso",
     "price": 18790,
     "available": true,
-    "image": 5,
+    "image": 4,
     "sku": null
    },
    {
@@ -587,7 +587,7 @@
     "value": "Caramel / Hueso",
     "price": 18790,
     "available": true,
-    "image": 6,
+    "image": 5,
     "sku": null
    },
    {
@@ -595,7 +595,7 @@
     "value": "Gris oxford / Hueso",
     "price": 18790,
     "available": true,
-    "image": 8,
+    "image": 7,
     "sku": null
    },
    {
@@ -603,7 +603,7 @@
     "value": "Gris oxford / Rojo quemado",
     "price": 18790,
     "available": true,
-    "image": 7,
+    "image": 6,
     "sku": null
    },
    {
@@ -611,7 +611,7 @@
     "value": "Verde botella / Hueso",
     "price": 18790,
     "available": true,
-    "image": 9,
+    "image": 8,
     "sku": null
    }
   ],
@@ -5372,88 +5372,88 @@
   },
   "images": [
    {
-    "src": "/img/products/caja-mini-casino-1.webp",
-    "alt": "Caja mini casino Premium de piel genuina hecho a mano por Koon Artesanos",
-    "w": 1024,
-    "h": 1024,
-    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/Caja_mini_casino.png?v=1725513325"
-   },
-   {
     "src": "/img/products/caja-mini-casino-2.webp",
-    "alt": "Caja mini casino Premium – vista 2",
+    "alt": "Caja mini casino Premium de piel genuina hecho a mano por Koon Artesanos",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/casino.jpg?v=1788289458"
    },
    {
     "src": "/img/products/caja-mini-casino-3.webp",
-    "alt": "Caja mini casino Premium – vista 3",
+    "alt": "Caja mini casino Premium – vista 2",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/casino_13.jpg?v=1717194416"
    },
    {
     "src": "/img/products/caja-mini-casino-4.webp",
-    "alt": "Caja mini casino Premium – vista 4",
+    "alt": "Caja mini casino Premium – vista 3",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/juego-de-casino.jpg?v=1788289484"
    },
    {
     "src": "/img/products/caja-mini-casino-5.webp",
-    "alt": "Caja mini casino Premium – vista 5",
+    "alt": "Caja mini casino Premium – vista 4",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/casino_08.jpg?v=1717194416"
    },
    {
     "src": "/img/products/caja-mini-casino-6.webp",
-    "alt": "Caja mini casino Premium – vista 6",
+    "alt": "Caja mini casino Premium – vista 5",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/casino_07.jpg?v=1717194416"
    },
    {
     "src": "/img/products/caja-mini-casino-7.webp",
-    "alt": "Caja mini casino Premium – vista 7",
+    "alt": "Caja mini casino Premium – vista 6",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/caja-de-juegos-de-piel.jpg?v=1788289331"
    },
    {
     "src": "/img/products/caja-mini-casino-8.webp",
-    "alt": "Caja mini casino Premium – vista 8",
+    "alt": "Caja mini casino Premium – vista 7",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/caja-de-juego-piel-genuina-koon-artesanos.jpg?v=1788289398"
    },
    {
     "src": "/img/products/caja-mini-casino-9.webp",
-    "alt": "Caja mini casino Premium – vista 9",
+    "alt": "Caja mini casino Premium – vista 8",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/casino_05.jpg?v=1717194416"
    },
    {
     "src": "/img/products/caja-mini-casino-10.webp",
-    "alt": "Caja mini casino Premium – vista 10",
+    "alt": "Caja mini casino Premium – vista 9",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/games-premium-koon-artesanos.jpg?v=1788289428"
    },
    {
     "src": "/img/products/caja-mini-casino-11.webp",
-    "alt": "Caja mini casino Premium – vista 11",
+    "alt": "Caja mini casino Premium – vista 10",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/luxury-games.jpg?v=1788289306"
    },
    {
     "src": "/img/products/caja-mini-casino-12.webp",
-    "alt": "Caja mini casino Premium – vista 12",
+    "alt": "Caja mini casino Premium – vista 11",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/casino_02.jpg?v=1717194416"
+   },
+   {
+    "src": "/img/products/caja-mini-casino-1.webp",
+    "alt": "Caja mini casino Premium – vista 12",
+    "w": 1024,
+    "h": 1024,
+    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/Caja_mini_casino.png?v=1725513325"
    }
   ],
   "optionName": "Color",
@@ -5463,7 +5463,7 @@
     "value": "Burgundy",
     "price": 4625,
     "available": true,
-    "image": 6,
+    "image": 5,
     "sku": null
    },
    {
@@ -5471,7 +5471,7 @@
     "value": "Caramel",
     "price": 4625,
     "available": true,
-    "image": 7,
+    "image": 6,
     "sku": null
    },
    {
@@ -5479,7 +5479,7 @@
     "value": "Gris oxford",
     "price": 4625,
     "available": true,
-    "image": 8,
+    "image": 7,
     "sku": null
    },
    {
@@ -5487,7 +5487,7 @@
     "value": "Negro",
     "price": 4625,
     "available": true,
-    "image": 9,
+    "image": 8,
     "sku": null
    },
    {
@@ -5495,7 +5495,7 @@
     "value": "Taupe",
     "price": 4625,
     "available": true,
-    "image": 10,
+    "image": 9,
     "sku": null
    },
    {
@@ -5503,7 +5503,7 @@
     "value": "Verde botella",
     "price": 4625,
     "available": true,
-    "image": 11,
+    "image": 10,
     "sku": null
    }
   ],
@@ -6002,67 +6002,67 @@
   },
   "images": [
    {
-    "src": "/img/products/maletadeviaje-1.webp",
-    "alt": "Maleta de viaje de piel genuina hecho a mano por Koon Artesanos",
-    "w": 1024,
-    "h": 1024,
-    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/3_ac621b8e-1b08-46a8-9d29-de2c9caf0435.png?v=1717194726"
-   },
-   {
     "src": "/img/products/maletadeviaje-2.webp",
-    "alt": "Maleta de viaje – vista 2",
+    "alt": "Maleta de viaje de piel genuina hecho a mano por Koon Artesanos",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_11.jpg?v=1717194726"
    },
    {
     "src": "/img/products/maletadeviaje-3.webp",
-    "alt": "Maleta de viaje – vista 3",
+    "alt": "Maleta de viaje – vista 2",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_08.jpg?v=1717194726"
    },
    {
     "src": "/img/products/maletadeviaje-4.webp",
-    "alt": "Maleta de viaje – vista 4",
+    "alt": "Maleta de viaje – vista 3",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_07.jpg?v=1717194726"
    },
    {
     "src": "/img/products/maletadeviaje-5.webp",
-    "alt": "Maleta de viaje – vista 5",
+    "alt": "Maleta de viaje – vista 4",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_05.jpg?v=1717194726"
    },
    {
     "src": "/img/products/maletadeviaje-6.webp",
-    "alt": "Maleta de viaje – vista 6",
+    "alt": "Maleta de viaje – vista 5",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_02.jpg?v=1717194726"
    },
    {
     "src": "/img/products/maletadeviaje-7.webp",
-    "alt": "Maleta de viaje – vista 7",
+    "alt": "Maleta de viaje – vista 6",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_01.jpg?v=1717194726"
    },
    {
     "src": "/img/products/maletadeviaje-8.webp",
-    "alt": "Maleta de viaje – vista 8",
+    "alt": "Maleta de viaje – vista 7",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_04.jpg?v=1717194726"
    },
    {
     "src": "/img/products/maletadeviaje-9.webp",
-    "alt": "Maleta de viaje – vista 9",
+    "alt": "Maleta de viaje – vista 8",
     "w": 1024,
     "h": 1024,
     "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/MV_03.jpg?v=1717194726"
+   },
+   {
+    "src": "/img/products/maletadeviaje-1.webp",
+    "alt": "Maleta de viaje – vista 9",
+    "w": 1024,
+    "h": 1024,
+    "remote": "https://cdn.shopify.com/s/files/1/0625/2317/files/3_ac621b8e-1b08-46a8-9d29-de2c9caf0435.png?v=1717194726"
    }
   ],
   "optionName": "Color",
@@ -6072,7 +6072,7 @@
     "value": "Azul cobalto",
     "price": 4980,
     "available": true,
-    "image": 5,
+    "image": 4,
     "sku": null
    },
    {
@@ -6080,7 +6080,7 @@
     "value": "Gris oxford",
     "price": 4980,
     "available": true,
-    "image": 6,
+    "image": 5,
     "sku": null
    },
    {
@@ -6088,7 +6088,7 @@
     "value": "Rojo quemado",
     "price": 4980,
     "available": true,
-    "image": 7,
+    "image": 6,
     "sku": null
    },
    {
@@ -6096,7 +6096,7 @@
     "value": "Verde botella",
     "price": 4980,
     "available": true,
-    "image": 8,
+    "image": 7,
     "sku": null
    }
   ],

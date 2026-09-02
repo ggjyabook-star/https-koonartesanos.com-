@@ -10,7 +10,8 @@
     "build": "node scripts/build-data.mjs && node build.mjs",
     "dev": "node build.mjs && node scripts/serve.mjs",
     "serve": "node scripts/serve.mjs",
-    "check": "node scripts/check.mjs"
+    "check": "node scripts/check.mjs && node scripts/check-css-contract.mjs",
+    "banners": "node scripts/scan-banners.mjs"
   },
   "dependencies": {
     "mercadopago": "^2.0.15",

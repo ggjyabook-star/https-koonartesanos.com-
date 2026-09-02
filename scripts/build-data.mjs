@@ -175,6 +175,25 @@ for (const p of raw) {
     seoTitle, seoDescription,
   });
 }
+// Las fotos con el letrero "Nuevo producto" incrustado se mandan al final de la galería, para que la
+// principal siempre sea una toma limpia. El listado lo produce `node scripts/scan-banners.mjs`.
+if (fs.existsSync('data/banner-scan.json')) {
+  const scan = Object.fromEntries(JSON.parse(fs.readFileSync('data/banner-scan.json', 'utf8')).map(r => [r.handle, r]));
+  let moved = 0;
+  for (const p of products) {
+    const r = scan[p.handle];
+    if (!r || !r.clean.length || r.flagged.length + r.clean.length !== p.images.length) continue;
+    const ordered = [...r.clean, ...r.flagged];
+    if (ordered[0] === 0) continue;
+    const idxMap = new Map(ordered.map((oldI, newI) => [oldI, newI]));
+    p.images = ordered.map(i => p.images[i]);
+    for (const v of p.variants) if (v.image != null) v.image = idxMap.has(v.image) ? idxMap.get(v.image) : null;
+    p.images.forEach((im, i) => { im.alt = i === 0 ? `${p.title} de piel genuina hecho a mano por Koon Artesanos` : `${p.title} – vista ${i + 1}`; });
+    moved++;
+  }
+  if (moved) console.log(`Fotos con letrero reordenadas en ${moved} productos.`);
+}
+
 products.sort((a, b) => (b.isStar - a.isStar) || (b.isNew - a.isNew) || (new Date(b.createdAt) - new Date(a.createdAt)));
 fs.writeFileSync('data/products.json', JSON.stringify(products, null, 1));
 

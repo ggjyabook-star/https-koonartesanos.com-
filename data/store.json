@@ -1,0 +1,74 @@
+{
+ "name": "Koon Artesanos",
+ "legalName": "Koon Blanc, S.A. de C.V.",
+ "url": "https://koonartesanos.com",
+ "tagline": "Arte que se comparte con amor",
+ "description": "Regalos corporativos, juegos de mesa y accesorios de piel genuina hechos a mano por artesanos mexicanos. Personalización con grabado y bordado.",
+ "currency": "MXN",
+ "locale": "es_MX",
+ "email": "contacto@koonartesanos.com",
+ "phones": ["55 2623 1887", "55 2623 1875"],
+ "phonesE164": ["+525526231887", "+525526231875"],
+ "whatsapp": "525568161711",
+ "whatsappDisplay": "+52 55 6816 1711",
+ "address": {
+  "street": "Prado Norte #540, 2° piso",
+  "colony": "Lomas de Chapultepec",
+  "city": "Ciudad de México",
+  "state": "CDMX",
+  "zip": "11000",
+  "country": "MX",
+  "mapsUrl": "https://maps.app.goo.gl/tUAje9hiXyBQQqgk9"
+ },
+ "returnsAddress": "Sur 141 #2206, Col. Gabriel Ramos Millán, Alcaldía Iztacalco, C.P. 08000, Ciudad de México",
+ "hours": ["Lunes a viernes: 10:00 a 18:00 h", "Sábados: 10:00 a 14:00 h"],
+ "social": {
+  "facebook": "https://www.facebook.com/koonartesanosmx",
+  "instagram": "https://www.instagram.com/koonartesanosMX/",
+  "amazon": "https://www.amazon.com.mx/s?i=merchant-items&me=A2ER59YNUTSSLX"
+ },
+ "shipping": {
+  "flatRate": 250,
+  "freeFrom": 5000,
+  "carrier": "DHL",
+  "deliveryDays": "3 a 7 días hábiles",
+  "customDeliveryDays": "7 a 15 días hábiles"
+ },
+ "yearsExperience": "más de 20 años",
+ "analytics": {
+  "gtmId": "GTM-MFR65M",
+  "ga4Ids": ["G-V1T70KQ3NZ", "G-7YPRVQL4WJ"],
+  "googleSiteVerification": ["T6wU9AseFzDdOo4yt3wrnQtF86ySjCWAU0TBPzjAYXI", "j0K51cz-lbPncYXwWs7MtO3mp8ilmuFvaSnMZSsKWGc"],
+  "pinterestVerification": "2692c6c38e7ebe1d735c2a31d30b562c"
+ },
+ "stores": [
+  {
+   "name": "Tienda Lomas (matriz)",
+   "address": "Prado Norte #540, 2° piso, Lomas de Chapultepec, CDMX",
+   "hours": ["Lunes a viernes: 10:00 a 18:00 h", "Sábados: 10:00 a 14:00 h"],
+   "phone": "+52 55 5520 8690",
+   "email": "lomas@koonartesanos.com",
+   "mapsUrl": "https://maps.app.goo.gl/tUAje9hiXyBQQqgk9"
+  },
+  {
+   "name": "Isla en Viveros y Florerías El Morro",
+   "address": "Loma del Parque #24, Lomas de Vista Hermosa, Cuajimalpa de Morelos, CDMX",
+   "hours": ["Lunes a viernes: 9:00 a 18:00 h", "Sábados: 9:00 a 15:00 h"]
+  },
+  {
+   "name": "Isla en Perpetua Muebles (Puebla)",
+   "address": "C. Fresnos 3519, La Providencia, 72180 Heroica Puebla de Zaragoza, Pue.",
+   "hours": ["Lunes a viernes: 9:00 a 18:00 h", "Sábados: 9:00 a 17:00 h"]
+  }
+ ],
+ "advisors": [
+  { "city": "Guadalajara", "name": "Lorenza Serratos", "phone": "+52 33 1130 8478", "email": "lorenza@koonartesanos.com" },
+  { "city": "Cancún", "name": "María Osorio", "phone": "+52 998 134 0202", "email": "mosorio@koonartesanos.com" },
+  { "city": "CDMX", "name": "Marisol Solís", "phone": "+52 55 6816 1711", "email": "marisol@koonartesanos.com" },
+  { "city": "CDMX", "name": "Diana Solís", "phone": "+52 55 7672 9811", "email": "diana@koonartesanos.com" },
+  { "city": "CDMX", "name": "Ana Paola Castillo", "phone": "+52 55 3960 8576", "email": "anapaola@koonartesanos.com" },
+  { "city": "CDMX", "name": "Marcela Toussaint", "phone": "+52 55 5455 7818", "email": "marcelatp@koonartesanos.com" },
+  { "city": "CDMX", "name": "Patricia Herrera", "phone": "+52 55 1950 0929", "email": "patriciahm@koonartesanos.com" },
+  { "city": "CDMX", "name": "Miguel Rocha", "phone": "+52 56 1007 6071", "email": "miguel@koonartesanos.com" }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "functions": {
+    "api/*.js": { "includeFiles": "data/{products,store}.json" }
+  },
+  "headers": [
+    { "source": "/img/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] },
+    { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] },
+    { "source": "/(.*)", "headers": [
+      { "key": "X-Content-Type-Options", "value": "nosniff" },
+      { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+      { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+    ] }
+  ],
+  "redirects": [
+    { "source": "/shop/regalos_corporativos", "destination": "/categoria/regalos-corporativos/", "permanent": true },
+    { "source": "/shop/regalos-corporativos", "destination": "/categoria/regalos-corporativos/", "permanent": true },
+    { "source": "/shop/oficina", "destination": "/categoria/oficina/", "permanent": true },
+    { "source": "/shop/hoteleria", "destination": "/categoria/hoteleria/", "permanent": true },
+    { "source": "/shop/decoracion_hoteleria", "destination": "/categoria/decoracion-hoteleria/", "permanent": true },
+    { "source": "/shop/juegos", "destination": "/categoria/juegos/", "permanent": true },
+    { "source": "/juegosdelrecuerdo", "destination": "/categoria/juegos-del-recuerdo/", "permanent": true },
+    { "source": "/shop/huichol", "destination": "/categoria/huichol/", "permanent": true },
+    { "source": "/shop/brocado", "destination": "/categoria/brocado/", "permanent": true },
+    { "source": "/shop/papel_amate", "destination": "/categoria/papel-amate/", "permanent": true },
+    { "source": "/shop/otomi", "destination": "/categoria/otomi/", "permanent": true },
+    { "source": "/tatei", "destination": "/categoria/tatei/", "permanent": true },
+    { "source": "/artesagrado", "destination": "/categoria/arte-sagrado/", "permanent": true },
+    { "source": "/alianzatatei", "destination": "/alianza-tatei/", "permanent": true },
+    { "source": "/shop/personalizacion", "destination": "/personalizacion/", "permanent": true },
+    { "source": "/shop/proyectos_especiales", "destination": "/categoria/proyectos-especiales/", "permanent": true },
+    { "source": "/shop/decoracion_personalizada", "destination": "/categoria/decoracion-personalizada/", "permanent": true },
+    { "source": "/shop/hogar", "destination": "/categoria/hogar/", "permanent": true },
+    { "source": "/shop/viajes", "destination": "/categoria/viajes/", "permanent": true },
+    { "source": "/shop/vinos", "destination": "/categoria/vinos/", "permanent": true },
+    { "source": "/shop/hombre", "destination": "/categoria/hombre/", "permanent": true },
+    { "source": "/shop/mujer", "destination": "/categoria/mujer/", "permanent": true },
+    { "source": "/shop/lo-nuevo", "destination": "/categoria/lo-nuevo/", "permanent": true },
+    { "source": "/shop/tienda-koon", "destination": "/contacto/", "permanent": true },
+    { "source": "/shop/alianzas_koon", "destination": "/alianza-tatei/", "permanent": true },
+    { "source": "/layouts/Nosotros", "destination": "/nosotros/", "permanent": true },
+    { "source": "/layouts/Equipo", "destination": "/equipo/", "permanent": true },
+    { "source": "/layouts/Piel", "destination": "/piel-genuina/", "permanent": true },
+    { "source": "/layouts/Politicasdedevoluciones", "destination": "/politica-de-devoluciones/", "permanent": true },
+    { "source": "/layouts/Avisodeprivacidad", "destination": "/aviso-de-privacidad/", "permanent": true },
+    { "source": "/layouts/Terminosycondiciones", "destination": "/terminos-y-condiciones/", "permanent": true },
+    { "source": "/blogs/blog-koon", "destination": "/blog/", "permanent": true },
+    { "source": "/blogs/:slug", "destination": "/blog/:slug/", "permanent": true },
+    { "source": "/products/:handle", "destination": "/producto/:handle/", "permanent": true },
+    { "source": "/product/:handle", "destination": "/producto/:handle/", "permanent": true },
+    { "source": "/page/account/cart", "destination": "/carrito/", "permanent": true },
+    { "source": "/shop/:rest*", "destination": "/tienda/", "permanent": false }
+  ]
+}

@@ -1,0 +1,186 @@
+[
+ {
+  "slug": "regalos-corporativos", "group": "Corporativo", "name": "Regalos corporativos", "tags": ["regalo_corp", "regalo cor", "junta_consejo"],
+  "h1": "Regalos corporativos en piel genuina",
+  "seoTitle": "Regalos Corporativos en Piel Personalizados con Logo | Koon Artesanos",
+  "seoDescription": "Regalos corporativos y empresariales en piel genuina, hechos a mano en México. Personalización con grabado o bordado de tu logotipo. Cotiza por volumen.",
+  "intro": "<p>Te ayudamos a construir y fortalecer relaciones con tus clientes, socios y colaboradores, materializando tus ideas en regalos corporativos con logo y artículos de piel genuina de alta calidad y durabilidad. Diseñamos regalos empresariales premium que se adaptan a las necesidades y presupuesto de cada empresa, incorporando la identidad de tu marca mediante bordado o grabado.</p><p>Cada pieza forma parte de nuestra colección de regalos empresariales artesanales, elaborados con maestría por artesanos mexicanos. Son regalos que perduran gracias a la resistencia de nuestros materiales. Haz que tu marca sea inolvidable.</p>",
+  "image": "/img/banners/Regalos-corporativos-de-lujo-en-piel.webp", "quote": true
+ },
+ {
+  "slug": "oficina", "group": "Corporativo", "name": "Oficina", "tags": ["Oficina"],
+  "h1": "Artículos de piel para oficina y escritorio",
+  "seoTitle": "Artículos de Piel para Oficina: Folders, Portadocumentos y Escritorio | Koon Artesanos",
+  "seoDescription": "Accesorios de piel genuina para oficina: folders, portadocumentos, juegos de escritorio, tarjeteros y más. Hechos a mano en México y personalizables con tu logo.",
+  "intro": "<p>Viste tu escritorio con piezas de piel genuina que combinan funcionalidad y elegancia: folders, portadocumentos, tapetes de escritorio, portalápices y juegos de escritorio completos. Todos nuestros artículos de oficina se pueden personalizar con grabado o bordado, ideales para regalos ejecutivos y para dar identidad a tu espacio de trabajo.</p>",
+  "image": "/img/banners/compu.webp", "quote": true
+ },
+ {
+  "slug": "hoteleria", "group": "Hotelería", "name": "Hotelería", "tags": ["hoteleria"],
+  "h1": "Amenidades de piel para hotelería",
+  "seoTitle": "Amenidades y Accesorios de Piel para Hoteles | Koon Artesanos",
+  "seoDescription": "Amenidades de piel genuina para hoteles y restaurantes: charolas, kleeneras, basureros, portavasos y accesorios de habitación. Diseño a la medida y producción en volumen.",
+  "intro": "<p>Nuestra esencia en el diseño va más allá de la estética: nos encanta crear espacios que realmente inspiren y hagan sentir especiales a los huéspedes. Mejora la experiencia de tu hotel con amenidades hechas de piel genuina y diseños personalizados de alta calidad.</p><p>Trabajamos conforme a las necesidades de cada proyecto, con producción y control de calidad a cargo de artesanos especializados en el detalle, para superar las expectativas de tus huéspedes.</p>",
+  "image": "/img/banners/banner2.webp", "quote": true
+ },
+ {
+  "slug": "decoracion-hoteleria", "group": "Hotelería", "name": "Decoración para hotel", "tags": ["decoracion_hotel"],
+  "h1": "Decoración en piel para hoteles y espacios de hospitalidad",
+  "seoTitle": "Decoración en Piel para Hoteles y Habitaciones | Koon Artesanos",
+  "seoDescription": "Piezas decorativas de piel genuina para habitaciones, lobbies y restaurantes: charolas, cajas, marcos y accesorios hechos a mano en México, adaptables a tu proyecto.",
+  "intro": "<p>Piezas decorativas de piel para habitaciones, lobbies y áreas comunes. Cada elemento se adapta a la identidad de tu proyecto de interiorismo, con la calidez y durabilidad que solo la piel genuina trabajada a mano puede ofrecer.</p>",
+  "image": "/img/banners/banner2.webp", "quote": true
+ },
+ {
+  "slug": "juegos", "group": "Juegos", "name": "Juegos de mesa", "tags": ["Juegos", "Backgammon"],
+  "h1": "Juegos de mesa de piel hechos a mano",
+  "seoTitle": "Juegos de Mesa de Piel: Backgammon, Dominó, Póker y más | Koon Artesanos",
+  "seoDescription": "Juegos de mesa premium en piel genuina: backgammon, dominó, cubiletes, póker, rummy y cajas de juegos. Hechos a mano en México y personalizables con grabado o bordado.",
+  "intro": "<p>Diseñamos juegos de piel con alta durabilidad, que permiten a varias generaciones disfrutar con la familia y amigos de momentos inolvidables. Cada juego es cuidadosamente diseñado y confeccionado para satisfacer los gustos y preferencias de nuestros clientes.</p><p>Garantizamos horas de diversión con cada uno de nuestros juegos de lujo, que podrás personalizar con grabado o bordado si deseas obsequiarlo.</p>",
+  "image": "/img/banners/conquista_cada_jugada_con_estilo.webp", "quote": true
+ },
+ {
+  "slug": "juegos-del-recuerdo", "group": "Juegos", "name": "Juegos del recuerdo", "tags": ["juegosdelrecuerdo"],
+  "h1": "Juegos del recuerdo · Colección Tatei",
+  "seoTitle": "Juegos del Recuerdo con Arte Huichol: Yoyo, Trompo, Balero | Tatei by Koon",
+  "seoDescription": "Juegos mexicanos tradicionales convertidos en obras de arte con chaquira huichol: yoyo, trompo, pirinola, balero y más. Colección Tatei, hecha a mano por familias wixárikas.",
+  "intro": "<p>Atrévete a vivir tu propia aventura. Inicia la experiencia de reconocer quién eres jugando. Conecta con tu niñez a través de los juegos mexicanos y descubre que somos únicos e irrepetibles. Te invitamos a contemplar y experimentar el arte de sanar con dulzura: «Arte Medicina» que despierta y provoca celebrar el milagro de la vida. Un presente con sentido, de México para el mundo.</p>",
+  "image": "/img/banners/arte_que_se_comparte_con_amor.webp", "quote": true
+ },
+ {
+  "slug": "huichol", "group": "Artesanía", "name": "Huichol", "tags": ["huichol"],
+  "h1": "Artesanía huichol en piel",
+  "seoTitle": "Artesanía Huichol: Piel con Chaquira Wixárika | Koon Artesanos",
+  "seoDescription": "Cajas de té, dominós, marcos y accesorios de piel decorados con chaquira huichol (wixárika) de San Andrés Cohamiata, Jalisco. Piezas únicas hechas a mano en México.",
+  "intro": "<p><strong>Origen:</strong> San Andrés Cohamiata, Jalisco, México · <strong>Etnia:</strong> Wixárika · <strong>Técnica:</strong> chaquira y cera de Campeche.</p><p>El origen del arte huichol radica en una tradición ancestral que se relaciona con lo divino, con una visión cósmica y una forma diferente de ver el mundo. Cada pieza es elaborada a mano con pequeñas chaquiras que forman figuras como el venado, el peyote, el maíz y el abuelo fuego, símbolos que representan la comunión con la naturaleza, la espiritualidad y el misticismo que los caracteriza. Los múltiples colores son, según su cosmovisión, la forma en que los dioses se comunican con los hombres.</p>",
+  "image": null, "quote": false
+ },
+ {
+  "slug": "brocado", "group": "Artesanía", "name": "Brocado", "tags": ["brocado"],
+  "h1": "Brocado en telar de cintura sobre piel",
+  "seoTitle": "Brocado de Chiapas en Piel: Telar de Cintura Tzotzil | Koon Artesanos",
+  "seoDescription": "Accesorios de piel con brocado tejido en telar de cintura por mujeres tzotziles de San Andrés Larráinzar, Chiapas. Charolas, dominós, portadocumentos y bolsas únicas.",
+  "intro": "<p><strong>Origen:</strong> San Andrés Larráinzar, los Altos de Chiapas, México · <strong>Etnia:</strong> Tzotzil · <strong>Técnica:</strong> telar de cintura y brocado.</p><p>El telar de cintura y el brocado son técnicas muy antiguas que los tzotziles heredaron de la cultura maya. Con dedicación y orgullo, las mujeres tzotziles amarran el telar a su cintura y entretejen hilos de múltiples colores hasta formar rombos y grecas que representan animales y seres sagrados que protegen a su comunidad, el maíz y la fertilidad de su tierra.</p>",
+  "image": null, "quote": false
+ },
+ {
+  "slug": "papel-amate", "group": "Artesanía", "name": "Papel amate", "tags": ["papel_amate"],
+  "h1": "Papel amate de San Pablito Pahuatlán",
+  "seoTitle": "Papel Amate Pintado a Mano sobre Piel | Koon Artesanos",
+  "seoDescription": "Piezas de piel decoradas con papel amate otomí de San Pablito Pahuatlán, Puebla, pintado a mano. Charolas y cajas de vino únicas, hechas en México.",
+  "intro": "<p><strong>Origen:</strong> San Pablito Pahuatlán, Puebla, México · <strong>Etnia:</strong> Otomí · <strong>Técnica:</strong> papel amate pintado a mano.</p><p>San Pablito Pahuatlán es la cuna del papel amate, la única región de México donde se fabrica y decora de manera 100% artesanal desde hace siglos. Los artesanos otomíes extraen la corteza del jonote blanco y rojo, la hierven con cal y ceniza, la aplanan y la secan al sol durante 3 a 5 días. Después llega la pintura, donde cada trazo representa a sus dioses y su admiración por la naturaleza.</p>",
+  "image": null, "quote": false
+ },
+ {
+  "slug": "otomi", "group": "Artesanía", "name": "Bordado otomí", "tags": ["otomi"],
+  "h1": "Bordado otomí (tenango) sobre piel",
+  "seoTitle": "Bordado Otomí Tenango en Piel | Koon Artesanos",
+  "seoDescription": "Charolas y accesorios de piel con bordado otomí tenango de la Sierra de Hidalgo, bordado a mano sobre manta de algodón. Artesanía mexicana con color y tradición.",
+  "intro": "<p><strong>Origen:</strong> San Pablo el Grande, Hidalgo, México · <strong>Etnia:</strong> Otomí-Tepehua · <strong>Técnica:</strong> bordado sobre manta de algodón.</p><p>Con amor y paciencia, las mujeres otomíes bordan lienzos llenos de color, muestra de la creatividad y el ingenio que las caracteriza. Cada artesana decide sus propios trazos, inspirados en sus fiestas tradicionales, la vida cotidiana y la riqueza natural que las rodea: aves, conejos, venados, perros y árboles.</p>",
+  "image": null, "quote": false
+ },
+ {
+  "slug": "tatei", "group": "Artesanía", "name": "Catálogo Tatei", "tags": ["catalogo_tatei"],
+  "h1": "Tatei · Arte wixárika con sentido",
+  "seoTitle": "Tatei: Arte Huichol de Lujo, Juegos del Recuerdo y Arte Sagrado | Koon Artesanos",
+  "seoDescription": "Tatei significa Madre en la comunidad wixárika. Obras de arte en chaquira creadas por familias mexicanas: juegos del recuerdo, cruces, nacimientos y piezas sagradas.",
+  "intro": "<p>Tatei, en la comunidad wixárika, significa <strong>Madre</strong>, y es un proyecto de consciencia que renace en agradecimiento, aquí y ahora, por amor a nuestra patria. Obras de arte creadas por familias mexicanas que se expresan en presencia consciente. Sus manos unen un corazón puro y una mente brillante para acompañarnos a conectar con nuestra auténtica esencia. En la piel, cada cuenta cuenta… <strong>DATE CUENTA</strong>.</p>",
+  "image": "/img/banners/arte_que_se_comparte_con_amor.webp", "quote": true
+ },
+ {
+  "slug": "arte-sagrado", "group": "Artesanía", "name": "Arte sagrado", "tags": ["artesagrado"],
+  "h1": "Arte sagrado · Colección Tatei",
+  "seoTitle": "Arte Sagrado en Chaquira Huichol: Cruces, Nacimientos y Vírgenes | Tatei by Koon",
+  "seoDescription": "Cruces, nacimientos, sagradas familias y vírgenes elaboradas en chaquira wixárika sobre piel. Piezas de arte sagrado hechas a mano por familias mexicanas.",
+  "intro": "<p>Manifiesta el cielo en la tierra integrando la sabiduría, fortaleza y justicia que observamos en la geometría sagrada de la naturaleza. Cada pieza se crea para honrar, enaltecer y transmitir el legado de consuelo en luz, paz y amor de la Reina Madre de México y América.</p>",
+  "image": null, "quote": true
+ },
+ {
+  "slug": "personalizacion", "group": "Personalización", "name": "Personalización", "tags": ["personalizacion"],
+  "h1": "Productos de piel personalizables",
+  "seoTitle": "Regalos de Piel Personalizados con Grabado o Bordado | Koon Artesanos",
+  "seoDescription": "Personaliza artículos de piel genuina con tu nombre, iniciales, mensaje o logotipo mediante grabado o bordado. Elige entre más de 12 colores de piel. Hecho en México.",
+  "intro": "<p>Nuestra pasión por la personalización nos permite ofrecer una amplia gama de opciones para que crees productos únicos que reflejen tu estilo o la identidad de tu marca. Elige el color de piel, agrega un grabado o un bordado, y nuestro equipo de diseño trabajará contigo para llevar tu visión a la vida.</p>",
+  "image": "/img/banners/personaliza_cada_detalle.webp", "quote": true
+ },
+ {
+  "slug": "proyectos-especiales", "group": "Personalización", "name": "Proyectos especiales", "tags": ["proyectos_especiales"],
+  "h1": "Proyectos especiales a la medida",
+  "seoTitle": "Proyectos Especiales en Piel a la Medida | Koon Artesanos",
+  "seoDescription": "Desarrollamos proyectos especiales en piel genuina: diseños a la medida para empresas, hoteles, eventos y colecciones exclusivas. Escuchamos tu idea y la hacemos realidad.",
+  "intro": "<p>Diseñar es mucho más que elaborar un boceto: se trata de atender necesidades, encontrar soluciones y lograr resultados extraordinarios. Desarrollamos piezas y colecciones a la medida para empresas, hoteles, eventos y colaboraciones, desde el concepto hasta la producción.</p>",
+  "image": "/img/banners/banner3.webp", "quote": true
+ },
+ {
+  "slug": "decoracion-personalizada", "group": "Personalización", "name": "Decoración personalizada", "tags": ["decoracion_personalizada"],
+  "h1": "Decoración personalizada en piel",
+  "seoTitle": "Decoración Personalizada en Piel para Hogar y Oficina | Koon Artesanos",
+  "seoDescription": "Marcos, charolas, cajas y accesorios decorativos de piel genuina personalizados con grabado o bordado. Diseño mexicano hecho a mano para hogar, oficina y hotel.",
+  "intro": "<p>Cada pieza está diseñada para adaptarse a cualquier espacio, en tu hogar o en la oficina, añadiendo un toque único y especial. La textura suave y el acabado elegante de la piel realzan la estética de su entorno y garantizan durabilidad y sofisticación.</p>",
+  "image": "/img/banners/banner1.webp", "quote": true
+ },
+ {
+  "slug": "hogar", "group": "Accesorios", "name": "Hogar", "tags": ["hogar"],
+  "h1": "Accesorios de piel para el hogar",
+  "seoTitle": "Accesorios de Piel para el Hogar: Charolas, Cajas, Marcos | Koon Artesanos",
+  "seoDescription": "Decora tu hogar con piel genuina hecha a mano en México: charolas, cajas de té, marcos, joyeros, kleeneras, basureros y más. Personalizables con grabado o bordado.",
+  "intro": "<p>Nuestros diseños enfatizan su carácter exclusivo al realizarse a mano por artesanos mexicanos. Charolas, cajas de té, marcos, joyeros y accesorios que aportan calidez y buen gusto a cada rincón de tu casa.</p>",
+  "image": "/img/banners/banner1.webp", "quote": false
+ },
+ {
+  "slug": "viajes", "group": "Accesorios", "name": "Viajes", "tags": ["viajes", "Viaje", "Porta pasaporte", "ID Maleta"],
+  "h1": "Accesorios de piel para viaje",
+  "seoTitle": "Accesorios de Viaje en Piel: Portapasaportes, Maletas, Estuches | Koon Artesanos",
+  "seoDescription": "Viaja con estilo: fundas para pasaporte, identificadores de maleta, estuches, bolsas y maletas de piel genuina hechas a mano en México. Personalízalas con tu nombre.",
+  "intro": "<p>Viaja con estilo y protege lo que más importa en cada aventura. Elige la funda para pasaporte, el identificador de maleta o el estuche de viaje que más te guste y personalízalo con tu color favorito, tu nombre, tus iniciales o el logotipo de tu empresa.</p>",
+  "image": "/img/banners/juegos-de-mesa-de-viaje_Koon-Artesanos.webp", "quote": false
+ },
+ {
+  "slug": "vinos", "group": "Accesorios", "name": "Vinos", "tags": ["vinos", "Vino"],
+  "h1": "Accesorios de piel para vino",
+  "seoTitle": "Cajas, Cavas y Portabotellas de Piel para Vino | Koon Artesanos",
+  "seoDescription": "Sorprende con un regalo increíble: cajas para uno o dos vinos, cavas, maletas y portabotellas de piel genuina hechas a mano en México. Personalizables con grabado.",
+  "intro": "<p>Sorprende a esa persona especial con un regalo memorable. Cajas para uno o dos vinos, cavas, portabotellas y maletas de piel genuina que visten cualquier botella y perduran en el tiempo.</p>",
+  "image": null, "quote": false
+ },
+ {
+  "slug": "hombre", "group": "Accesorios", "name": "Hombre", "tags": ["hombre"],
+  "h1": "Artículos de piel para hombre",
+  "seoTitle": "Regalos de Piel para Hombre: Carteras, Mochilas, Juegos | Koon Artesanos",
+  "seoDescription": "Accesorios de piel genuina para hombre: carteras, tarjeteros, mochilas, portacorbatas, cajas para relojes y juegos de mesa. Hechos a mano en México y personalizables.",
+  "intro": "<p>Piezas de piel genuina pensadas para el día a día y para las ocasiones especiales: carteras, tarjeteros, mochilas, cajas para relojes y juegos de mesa. El regalo ideal para quien lo tiene todo, con la calidad de la artesanía mexicana.</p>",
+  "image": "/img/banners/Regalos-corporativos-de-lujo-en-piel.webp", "quote": false
+ },
+ {
+  "slug": "mujer", "group": "Accesorios", "name": "Mujer", "tags": ["mujer", "coleccion para mujer serena", "Carteras mujer", "Bolsas"],
+  "h1": "Artículos de piel para mujer",
+  "seoTitle": "Bolsas, Carteras y Accesorios de Piel para Mujer | Koon Artesanos",
+  "seoDescription": "Bolsas tote, carteras, cosmetiqueras, joyeros y mochilas de piel genuina para mujer, hechas a mano en México. Diseño minimalista, acabados premium y personalización.",
+  "intro": "<p>Descubre la Colección Serena y nuestras líneas para mujer: bolsas, carteras, cosmetiqueras, joyeros y mochilas elaboradas con piel genuina de alta calidad. Líneas limpias, tonos sofisticados y detalles cuidadosamente trabajados a mano.</p>",
+  "image": "/img/banners/banner3.webp", "quote": false
+ },
+ {
+  "slug": "accesorios", "group": "Accesorios", "name": "Otros accesorios", "tags": ["Accesorios", "Llaveros", "Tarjeteros", "Plumas", "Lentes"],
+  "h1": "Otros accesorios de piel",
+  "seoTitle": "Accesorios de Piel: Llaveros, Tarjeteros, Estuches | Koon Artesanos",
+  "seoDescription": "Llaveros, tarjeteros, estuches para lentes, cajas para plumas y otros accesorios de piel genuina hechos a mano en México. Ideales como detalle corporativo o regalo.",
+  "intro": "<p>Pequeños detalles con gran presencia: llaveros, tarjeteros, estuches para lentes y cajas para plumas en piel genuina. Perfectos como souvenir, detalle corporativo o regalo personal.</p>",
+  "image": null, "quote": false
+ },
+ {
+  "slug": "artesania", "group": "Artesanía", "name": "Artesanía mexicana", "tags": ["artesania"],
+  "h1": "Artesanía mexicana en piel",
+  "seoTitle": "Artesanía Mexicana en Piel: Huichol, Brocado, Amate y Otomí | Koon Artesanos",
+  "seoDescription": "Piel genuina fusionada con arte huichol, brocado de Chiapas, papel amate y bordado otomí. Piezas únicas hechas a mano por artesanos mexicanos, orgullo de México.",
+  "intro": "<p>Detrás de cada producto emprendemos la misión de ver a un México ganador. Trabajamos por su gente: por el artesano que elabora cada pieza, por el diseñador que inspira y por el cliente que confía en nosotros. A través de nuestras piezas le mostramos al mundo la riqueza de la artesanía mexicana.</p>",
+  "image": "/img/banners/arte_que_se_comparte_con_amor.webp", "quote": false
+ },
+ {
+  "slug": "lo-nuevo", "group": null, "name": "Lo nuevo", "tags": ["nuevo"],
+  "h1": "Lo nuevo en Koon Artesanos",
+  "seoTitle": "Nuevos Productos de Piel Genuina | Koon Artesanos",
+  "seoDescription": "Descubre los nuevos diseños de Koon Artesanos: colecciones Origen y Serena, juegos premium, mochilas y accesorios de piel genuina hechos a mano en México.",
+  "intro": "<p>Cada día nos esforzamos por diseñar el regalo perfecto y sorprenderte con productos nuevos, diferentes y funcionales. Estas son nuestras piezas más recientes.</p>",
+  "image": "/img/banners/personaliza_cada_detalle.webp", "quote": false
+ }
+]

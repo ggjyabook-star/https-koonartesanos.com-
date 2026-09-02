@@ -1,0 +1,22 @@
+{
+  "name": "koon-artesanos-tienda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tienda en línea de Koon Artesanos: sitio estático pre-renderizado (SEO) + funciones serverless para pagos (Stripe / Mercado Pago).",
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "images": "node scripts/download-images.mjs",
+    "build": "node scripts/build-data.mjs && node build.mjs",
+    "dev": "node build.mjs && node scripts/serve.mjs",
+    "serve": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "dependencies": {
+    "mercadopago": "^2.0.15",
+    "stripe": "^17.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
